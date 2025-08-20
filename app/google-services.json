@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082328585208",
+    "project_id": "im-er-d41d8",
+    "storage_bucket": "im-er-d41d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082328585208:android:4249c9714ec7cfd9aebc0d",
+        "android_client_info": {
+          "package_name": "com.moh.nah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDIVZMECyI_73BEFLcTNq7wU4zK0Pbaok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
